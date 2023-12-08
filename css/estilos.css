@@ -1,0 +1,92 @@
+
+body {
+    background: linear-gradient(to bottom, #8a63ab, #5e97f6);
+    color: white;
+    font-family: 'Arial', sans-serif;
+    padding: 0;
+}
+
+#inicio{
+    height: 650px;
+    background-image: url(../img/fondo.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+}
+
+#inicio a {
+    color: white;
+    text-align: center;
+    ;
+}
+
+#inicio p {
+    text-align: center;
+
+}
+
+.imgs row{
+    padding: 0;
+    align-content: center;
+}
+
+.imgs img {
+    padding: 0;
+    height: 250px;
+    
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #ffc107; 
+}
+
+
+header {
+    background-color: #343a40;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: white;
+}
+
+
+section {
+    padding: 40px 0;
+    width: auto;
+    justify-content: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffc107;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+footer {
+    background-color: #343a40;
+}
+
+
+.footer-social-icons a {
+    color: #ffc107;
+}
+
+.footer-social-icons a:hover {
+    color: white;
+}
+#instalaciones p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: black;
+}
+#clases{
+    background-image: url(../img/5.avif);
+}
+
+
+
